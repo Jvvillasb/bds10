@@ -1,7 +1,7 @@
 import './styles.css';
 
 import Pagination from 'components/Pagination';
-import EmployeeCard from 'components/EmployeeCard';
+import EmployeeCard from 'components/Card';
 import { Link } from 'react-router-dom';
 import { useCallback, useEffect, useState } from 'react';
 import { AxiosRequestConfig } from 'axios';
